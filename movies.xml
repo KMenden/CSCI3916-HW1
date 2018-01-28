@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<movies
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://sample"
+        xsi:schemaLocation="http://sample movies.xsd">
+    <movie>
+        <Title>12 Angry Men</Title>
+        <Year>1957</Year>
+        <Genre>Drama</Genre>
+        <Actors>
+           <Actor>
+               <Name>Henry Fonda</Name>
+               <DateofBirth>1905-05-16</DateofBirth>
+           </Actor>
+            <Actor>
+                <Name>Lee J. Cobb</Name>
+                <DateofBirth>1911-12-08</DateofBirth>
+            </Actor>
+            <Actor>
+                <Name>Ed Begley Sr.</Name>
+                <DateofBirth>1901-03-25</DateofBirth>
+            </Actor>
+            <Actor>
+                <Name>E.G. Marshall</Name>
+                <DateofBirth>1914-06-18</DateofBirth>
+            </Actor>
+            <Actor>
+                <Name>Jack Warden</Name>
+                <DateofBirth>1920-09-18</DateofBirth>
+            </Actor>
+        </Actors>
+    </movie>
+    <movie>
+        <Title>S.W.A.T</Title>
+        <Year>2003</Year>
+        <Genre>Action</Genre>
+        <Actors>
+            <Actor>
+                <Name>Samual L. Jackson</Name>
+                <DateofBirth>1948-12-21</DateofBirth>
+            </Actor>
+            <Actor>
+                <Name>Colin Farrell</Name>
+                <DateofBirth>1976-05-31</DateofBirth>
+            </Actor>
+            <Actor>
+                <Name>Michelle Rodriguez</Name>
+                <DateofBirth>1978-07-12</DateofBirth>
+            </Actor>
+            <Actor>
+                <Name>LL Cool J</Name>
+                <DateofBirth>1968-01-14</DateofBirth>
+            </Actor>
+        </Actors>
+    </movie>
+</movies>
